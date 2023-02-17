@@ -1,0 +1,22 @@
+# 工具生成的
+.idea
+.vscode
+
+# 日志类型
+logs
+*.log
+
+# 包类型
+node_modules
+
+# 打包生成的产物
+dist/
+out/
+
+# 版本锁
+yarn-lock.json
+package-lock.json
+pnpm-lock.json
+
+# 其他
+.DS_Store
