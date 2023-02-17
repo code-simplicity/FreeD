@@ -14,9 +14,9 @@ dist/
 out/
 
 # 版本锁
-yarn-lock.json
-package-lock.json
-pnpm-lock.json
+# yarn-lock.json
+# package-lock.json
+# pnpm-lock.yaml
 
 # 其他
 .DS_Store
