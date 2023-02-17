@@ -1,0 +1,23 @@
+{
+  "name": "free-d",
+  "private": true,
+  "version": "0.0.1",
+  "description": "FreeD，Free寓意自由、免费的，是前端领域新星的UI框架，D代表设计design，是经过一系列的构思而成，目的是成为免费的、自由的设计。",
+  "main": "packages",
+  "scripts": {
+    "test": "test -init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpy0912/FreeD.git"
+  },
+  "keywords": [
+    "UI、FreeD、FrontEnd、components"
+  ],
+  "author": "dpy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dpy0912/FreeD/issues"
+  },
+  "homepage": "https://github.com/dpy0912/FreeD#readme"
+}
