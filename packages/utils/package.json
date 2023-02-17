@@ -1,0 +1,22 @@
+{
+  "name": "@free-d/utils",
+  "version": "0.0.1",
+  "description": "@free-d/utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "free-d-scripts jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpy0912/FreeD.git"
+  },
+  "keywords": [
+    "@free-d/utils"
+  ],
+  "author": "dpy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dpy0912/FreeD/issues"
+  },
+  "homepage": "https://github.com/dpy0912/FreeD#readme"
+}
