@@ -21,14 +21,16 @@
   },
   "homepage": "https://github.com/dpy0912/FreeD#readme",
   "engines": {
-    "node": ">=14",
-    "pnpm": ">=3"
+    "node": ">=16",
+    "pnpm": ">=7.x"
   },
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@types/node": "^18.14.0",
+    "node": "^19.6.0",
     "rollup": "^3.17.0",
     "typescript": "^4.9.5"
   }
