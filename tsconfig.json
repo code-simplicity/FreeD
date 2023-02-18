@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.base.json", // 继承其他的ts配置
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["*"],
+      "free-d": ["./packages/free-d"],
+      "@free-d/hooks": ["./packages/hooks"],
+      "@free-d/utils": ["./packages/utils"],
+    }
+  }
+}
