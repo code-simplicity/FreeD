@@ -1,0 +1,27 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+//  "plugins": ["jest"],
+  "rules": {
+    "semi": "warn",
+    "no-debugger": "warn",
+    "no-unused-vars": "warn"
+  },
+  // 为指定的文件指定处理
+  "overrides": [
+//    {
+//    "files": ["*.md"]
+//  },
+//    {
+//       "files": ["**/*.md/*.js"],
+//      "rules": {
+//        "strict": "off"
+//      }
+//    }
+  ]
+}
