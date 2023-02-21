@@ -10,6 +10,12 @@
   "rules": {
     "semi": "warn",
     "no-debugger": "warn",
+    "use-isnan": "warn", // 使用isNaN检测NaN
+    "eqeqeq": "error", // 强制类型比较 === || !==
+    "comma-style": "warn", // 强制使用一致的逗号风格
+    "jsx-quotes": "warn", // 强制在 JSX 属性中一致地使用双引号或单引号
+    "quotes": "warn", // 强制使用一致的反勾号、双引号或单引号
+    "no-console": "warn", // 出现console警告
     "no-unused-vars": "warn"
   },
   // 为指定的文件指定处理
